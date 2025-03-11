@@ -1,4 +1,8 @@
-# Ghanian Food from Different Ethnic Groups
+# Ghanian Food
+
+
+
+### Ethnic Groups
 | Ewe | Akan | Ga-Dangme | Guan | Hausa |
 |-|-|-|-|-|
 | Agbeli Kaaklo | Fante Kenkey | Ga-Kenkey| Jollof Rice | Omo Tuo |
@@ -7,3 +11,9 @@
 | | Okro Soup | | Chalakiles |
 | | Light Soup | | Lumpia |
 | | Talapia |
+
+---
+
+### How Geography Affects Different types of Food Available
+
+Geography affects 
