@@ -5,13 +5,13 @@
 Ghanaian food is one of Ghana's unique features. Because of the different ethnic groups, the foods vary throughout the regions of Ghana with food shared with other countries like Bofrot. Some of the food are very fancy delicates like Lumpia, Kelaguen, Waakye, and Latiya. Ghanaian foods give culture to people from Ghana.
 
 ### Ethnic Groups
-| Ewe | Akan | Ga-Dangme | Guan | Hausa |
-|-|-|-|-|-|
-| Agbeli Kaaklo | Fante Kenkey | Ga-Kenkey| Jollof Rice  | Omo Tuo        |
-| Banku         | Fufu         |          | Fina'denne'  | Groundnut Soup |
-| Tuo Zaafi     | Cassava      |          | Tamales Gisu |
-|               | Okro Soup    |          | Chalakiles   |
-|               | Light Soup   |          | Lumpia       |
+| Ewe           | Akan         | Ga-Dangme | Guan         | Hausa          |
+|---------------|--------------|-----------|--------------|----------------|
+| Agbeli Kaaklo | Fante Kenkey | Ga-Kenkey | Jollof Rice  | Omo Tuo        |
+| Banku         | Fufu         |           | Fina'denne'  | Groundnut Soup |
+| Tuo Zaafi     | Cassava      |           | Tamales Gisu |
+|               | Okro Soup    |           | Chalakiles   |
+|               | Light Soup   |           | Lumpia       |
 |               | Talapia      |
 
 ---
