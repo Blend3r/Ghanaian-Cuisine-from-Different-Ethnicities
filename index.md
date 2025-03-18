@@ -7,12 +7,12 @@ Ghanaian food is one of Ghana's unique features. Because of the different ethnic
 ### Ethnic Groups
 | Ewe | Akan | Ga-Dangme | Guan | Hausa |
 |-|-|-|-|-|
-| Agbeli Kaaklo | Fante Kenkey | Ga-Kenkey| Jollof Rice | Omo Tuo |
-| Banku | Fufu | | Fina'denne' | Groundnut Soup |
-| Tuo Zaafi | Cassava | | Tamales Gisu |
-| | Okro Soup | | Chalakiles |
-| | Light Soup | | Lumpia |
-| | Talapia |
+| Agbeli Kaaklo | Fante Kenkey | Ga-Kenkey| Jollof Rice  | Omo Tuo        |
+| Banku         | Fufu         |          | Fina'denne'  | Groundnut Soup |
+| Tuo Zaafi     | Cassava      |          | Tamales Gisu |
+|               | Okro Soup    |          | Chalakiles   |
+|               | Light Soup   |          | Lumpia       |
+|               | Talapia      |
 
 ---
 
@@ -20,4 +20,7 @@ Ghanaian food is one of Ghana's unique features. Because of the different ethnic
 
 Geography affects the types of food available in several ways, such as:
 
-* In some places, the terrain is higher, and less water flows, but in other places, the terrain is low and more water flows.
+* In some places, the terrain is higher, and less water flows, but in others, the terrain is low, and more water flows.
+* Agriculture and fishing are used in the southern regions of Ghana, therefore affecting the ingredients.
+
+### Differences between food in Northern Ghana and Southern Ghana
