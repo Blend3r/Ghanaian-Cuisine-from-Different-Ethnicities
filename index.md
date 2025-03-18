@@ -24,3 +24,7 @@ Geography affects the types of food available in several ways, such as:
 * Agriculture and fishing are used in the southern regions of Ghana, therefore affecting the ingredients.
 
 ### Differences between food in Northern Ghana and Southern Ghana
+In the Southern region, they eat a lot of corn and plant-based foods, as well as fish, and plant-based _soups_, sometimes made with meat. However, the Northern region is known for its trade with other countries. They also make food _mostly_ without fish, and they use other types of meat instead.
+
+### How Migration and Trade Affect Ghanaian Cuisine
+The migration of the Ewe
