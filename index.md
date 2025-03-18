@@ -10,8 +10,8 @@ Ghanaian food is one of Ghana's unique features. Because of the different ethnic
 | Agbeli Kaaklo | Fante Kenkey | Ga-Kenkey | Jollof Rice  | Omo Tuo        |
 | Banku         | Fufu         |           | Fina'denne'  | Groundnut Soup |
 | Tuo Zaafi     | Cassava      |           | Tamales Gisu |
-|               | Okro Soup    |           | Chalakiles   |
-|               | Light Soup   |           | Lumpia       |
+| Kelewele      | Okro Soup    |           | Chalakiles   |
+| Waakye        | Light Soup   |           | Lumpia       |
 |               | Talapia      |
 
 ---
@@ -27,4 +27,10 @@ Geography affects the types of food available in several ways, such as:
 In the Southern region, they eat a lot of corn and plant-based foods, as well as fish, and plant-based _soups_, sometimes made with meat. However, the Northern region is known for its trade with other countries. They also make food _mostly_ without fish, and they use other types of meat instead.
 
 ### How Migration and Trade Affect Ghanaian Cuisine
-The migration of the Ewe
+The migration of the Ewe brought a lot of food and snacks to Ghana, such as Banku, Agbeli Kaaklo, Kelewele, Waakye, Tuo Zaafi, et cetera. Trade brought a lot of salt from the Northern parts of Africa, and peppers to give them spices, giving them a unique cuisine.
+
+### Comparison to Other Cultures
+Other countries like Burkina Faso make their food using more groundnuts than Ghana, and they have a unique cuisine like Yassa Chicken. They use similar ingredients like onions, millet, rice, maize, peanuts, beans, and yams, while countries like Cote d'Ivoire (Ivy Coast) produce Cocoa. They share similar foods with Ghana such as Alloco and Fufu, but other than that, it's not very similar. Some foods that Cote d'Ivoire has include:
+* Peanut Butter Stew
+* Garba
+* Attiéke
